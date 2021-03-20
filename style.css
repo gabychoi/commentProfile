@@ -20,3 +20,19 @@ article {
 .share {
     margin: 0 auto;
 }
+
+.kakao_ad {
+    width: 320px;
+    margin: 0 auto; 
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.banner-img {
+    width: 300px;
+}
